@@ -16,7 +16,7 @@ main {
     background-image: linear-gradient(to bottom, white 80%, rgba(148, 147, 147, 0.651));
     border-radius: 2%;
     box-shadow: 10px 10px 10px #3e3e4d;
-    width: 600px;
+    max-width: 600px;
     height: auto;
     padding: 10px;
     margin: auto;
@@ -43,6 +43,7 @@ p {
     text-align: center;
     text-indent: 20px;
     margin-bottom: 20px;
+    line-height: 30px;
 }
 li {
     margin: auto; width: 370px;
@@ -62,18 +63,16 @@ a:visited {
 a:active {
     color: #95E6F5;
 }
-.especial {
-    background-color: #95e7f55b;
-}
+
 h1:hover {
-    color: black;
+    color: #223538;
+    font-weight: bold;
     text-decoration: underline;
     
 }
+/*
 h1:active {
     background-color: black;
     color: yellow;
 }
-.redes {
-   
-}
+*/
