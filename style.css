@@ -15,7 +15,7 @@ body {
 main {
     background-image: linear-gradient(to bottom, white 80%, rgba(148, 147, 147, 0.651));
     border-radius: 2%;
-    box-shadow: 10px 10px 10px #3e3e4d;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.493);
     max-width: 600px;
     height: auto;
     padding: 10px;
