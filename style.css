@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+* { 
+    /* height: 100%; */
+    font-family: 'Domine', serif;
+    
+}
+body {
+        
+    background-color: #95E6F5;
+}
+main {
+    background-image: linear-gradient(to bottom, white 80%, rgba(148, 147, 147, 0.651));
+    border-radius: 2%;
+    box-shadow: 10px 10px 10px #3e3e4d;
+    width: 600px;
+    height: auto;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+
+}
+h1 {
+    font-family: 'Fredoka One', cursive;
+    background-color: #86cedb94;
+    color: white;
+    border-radius: 5px;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
+    text-align: center;
+}
+h2 {
+    color: #486E75;
+    text-align: center;
+}
+h3 {
+    color: #2a3842;
+    text-align: center;
+}
+p {
+    text-align: center;
+    text-indent: 20px;
+    margin-bottom: 20px;
+}
+li {
+    margin: auto; width: 370px;
+        
+}
+a {
+    text-decoration: none;
+    color: #486E75;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: #223538;
+}
+a:active {
+    color: #95E6F5;
+}
+.especial {
+    background-color: #95e7f55b;
+}
+h1:hover {
+    color: black;
+    text-decoration: underline;
+    
+}
+h1:active {
+    background-color: black;
+    color: yellow;
+}
+.redes {
+   
+}
